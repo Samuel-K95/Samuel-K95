@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I'm currently working on Generative AI, Java and Databases.
+- 🔭 I'm currently working on Generative AI, Java programming language and Databases.
 - 🌱 I’m currently learning Software Engieering through ALX.
 - 👯 I’m looking to collaborate on opensource projects related to software delvelopment.
 - 🤔 I’m looking for ways to expand my skills in AI and software development.
