@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I am Samuel Keno, A software engineering and AI Enthusiast</h3>
+<h3 align="center">I am Samuel Keno, A Software engineer and AI Enthusiast</h3>
 
 <!--
 **Samuel-K95/Samuel-K95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
