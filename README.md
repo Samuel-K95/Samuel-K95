@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - Fun fact: Python was named after a british comedy series "Monty Python's Flying Circus'
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samuel-keno-4a7262264/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-K95&theme=vue-dark)](https://github.com/Samuel-K95/github-readme-stats)
