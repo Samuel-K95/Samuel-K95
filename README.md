@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I am Samuel Keno, A Software engineer and AI Enthusiast</h3>
+<h3 align="center">I am Samuel Keno, a Computer Science and Engineering student</h3>
 
 <!--
 **Samuel-K95/Samuel-K95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +7,6 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I'm currently working on Problem Solving and Web Development
-- 👯 looking to collaborate on opensource projects related to software delvelopment.
 - 💬 Ask me about Problem Solving and **Python**
 - 📫 How to reach me: You can reach me on Telegram ↗ [@Samuel](https://t.me/sami_g95)
 
