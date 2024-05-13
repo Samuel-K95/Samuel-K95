@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm currently working on Problem Solving and Web Development
 - 💬 Ask me about Problem Solving and **Python**
-- 📫 How to reach me: You can reach me on Telegram ↗ [@Samuel](https://t.me/sami_g95)
+- 📫 You can reach me on Telegram ↗ [@Samuel](https://t.me/sami_g95)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samuel-keno-4a7262264/)
 
