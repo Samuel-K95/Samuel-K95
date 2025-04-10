@@ -1,4 +1,4 @@
-<h3 align="center">I am Samuel Keno, a Computer Science and Engineering student</h3>
+<h3 align="center">I am Samuel Geremew Keno, a Computer Science and Engineering student</h3>
 
 <!--
 **Samuel-K95/Samuel-K95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
